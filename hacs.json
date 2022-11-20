@@ -1,5 +1,7 @@
 {
     "name": "Hildebrand Glow IHD MQTT",
+    "url": "https://github.com/jonshorter/hildebrand/tree/main/custom_components/hildebrand_glow_ihd_mqtt",
+    "maintainer": "Jonathan-Shorter"  
     "render_readme": true,
     "domains": ["sensor"],
     "country": ["GB"],
